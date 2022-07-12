@@ -1,4 +1,4 @@
-# OSS Notice | Kakao-i ConnectLive WebRTC SDK #
+# Kakao-i ConnectLive WebRTC SDK
 
 This application is Copyright © Kakao Enterprise. All rights reserved.
 
